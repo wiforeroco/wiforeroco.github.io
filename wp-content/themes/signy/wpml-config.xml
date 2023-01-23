@@ -1,0 +1,18 @@
+<wpml-config>
+  <admin-texts>
+    <key name="_cs_options">
+      <key name="left_side_title"/>
+      <key name="left_side_content"/>
+      <key name="left_side_social_icon"/>
+      <key name="404_left_side_title"/>
+      <key name="404_left_side_content"/>
+      <key name="continue_reading_text"/>
+      <key name="post_by_text"/>
+      <key name="follow_me_text"/>
+      <key name="share_on_text"/>
+      <key name="post_comment_text"/>
+      <key name="share_post_text"/>
+      <key name="you_also_like_text"/>
+    </key>
+  </admin-texts>
+</wpml-config>

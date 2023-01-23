@@ -1,0 +1,140 @@
+/*
+ * Right Sidebar Styles for Signy Theme
+ * Author & Copyright: VictorThemes
+ * URL: http://themeforest.net/user/VictorThemes
+ */
+html,
+body{overflow:hidden;}
+
+html,
+body,
+#sgny-page-warp,
+.sgny-pusher,
+.sgny-content {
+    height:100%;
+}
+
+html:not(.sgny-not-touch)  .sgny-content,
+html:not(.sgny-not-touch)  .sgny-right-sidebar-scroll{
+    overflow-y:auto !important;
+    overflow-x:hidden !important;
+    -webkit-overflow-scrolling: touch;
+}
+
+.sgny-has_nicescroll   #ascrail2000{
+    right:0px !important;left:auto !important;
+    top:0 !important;
+}
+
+html:not(.sgny-not-touch)  .sgny-content::-webkit-scrollbar,
+html:not(.sgny-not-touch)  .sgny-right-sidebar-scroll::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width:4px;
+    height:auto;
+}
+html:not(.sgny-not-touch)  .sgny-content::-webkit-scrollbar-thumb,
+html:not(.sgny-not-touch)  .sgny-right-sidebar-scroll::-webkit-scrollbar-thumb {
+    background-color:rgba(0, 0, 0, 0.2);
+}
+
+.sgny-content, .sgny-right-sidebar-scroll{
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.sgny-content, .sgny-content-inner {
+    position: relative;
+}
+.sgny-page-warp {
+    position: relative;
+}
+.sgny-pusher {
+    position: relative;
+    right: 0;
+    -webkit-transition: transform 0.5s ease 0s;
+    -webkit-transition: -webkit-transform 0.5s ease 0s;
+    transition: -webkit-transform 0.5s ease 0s;
+    transition: transform 0.5s ease 0s;
+    transition: transform 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+    z-index: 99;
+}
+.sgny-center-container_area.sgny-center-header-area{
+    margin-left: 40%;
+    width:60%;
+}
+.sgny-right-sidebar {
+    background: #fff none repeat scroll 0 0;
+    height: 100%;
+    /*position: absolute;*/
+    right: 0;
+    top: 0;
+    -webkit-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+    visibility: hidden;
+    width: 400px;
+    z-index: 100;
+}
+.scrollbar-inner.sgny-right-sidebar-scroll {
+  height: 100%;
+  overflow-y: auto;
+}
+.sgny-right-sidebar-inner{width:262px;margin:0 auto;}
+.sgny-right-sidebar:after {
+    background: rgba(0, 0, 0, 0.2) none repeat scroll 0 0;
+    content: "";
+    height: 100%;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    position: absolute;
+    right: 0;
+    top: 0;
+    -webkit-transition: opacity 0.5s ease 0s;
+    transition: opacity 0.5s ease 0s;
+    width: 100%;
+}
+.sgny-right-sidebar-open .sgny-right-sidebar:after {
+    height: 0;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    -webkit-transition: opacity 0.5s ease 0s, width 0.1s ease 0.5s, height 0.1s ease 0.5s;
+    transition: opacity 0.5s ease 0s, width 0.1s ease 0.5s, height 0.1s ease 0.5s;
+    width: 0;
+}
+
+.sgny-effect-right_sidebar.sgny-page-warp {
+    -webkit-perspective: 1500px;
+            perspective: 1500px;
+    -webkit-perspective-origin: 0 50%;
+            perspective-origin: 0 50%;
+}
+.sgny-effect-right_sidebar .sgny-pusher {
+    -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+}
+.sgny-effect-right_sidebar.sgny-right-sidebar-open .sgny-pusher {
+    -webkit-transform: translate3d(-400px, 0px, 0px);
+            transform: translate3d(-400px, 0px, 0px);
+}
+.sgny-effect-right_sidebar.sgny-right-sidebar {
+    -webkit-transform: translate3d(100%, 0px, 0px);
+            transform: translate3d(100%, 0px, 0px);
+    -webkit-transform-origin: left 50% 0;
+            transform-origin: left 50% 0;
+    -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+}
+.sgny-effect-right_sidebar.sgny-right-sidebar-open .sgny-effect-right_sidebar.sgny-right-sidebar {
+    -webkit-transform: translate3d(100%, 0px, 0px);
+            transform: translate3d(100%, 0px, 0px);
+    -webkit-transition: -webkit-transform 0.5s ease 0s;
+    transition: -webkit-transform 0.5s ease 0s;
+    transition: transform 0.5s ease 0s;
+    transition: transform 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+    visibility: visible;
+    position: absolute;
+}
+.sgny-effect-right_sidebar.sgny-right-sidebar:after {
+    display: none;
+}
+.no-csstransforms3d .sgny-pusher, .no-js .sgny-pusher {
+    padding-left: 300px;
+}
