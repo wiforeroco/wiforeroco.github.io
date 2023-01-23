@@ -1,0 +1,1256 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Signy Core\n"
+"POT-Creation-Date: 2021-01-22 10:31+0530\n"
+"PO-Revision-Date: 2021-01-22 10:30+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: signy-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/custom-shortcodes/custom-shortcodes.php:923
+#: inc/custom-shortcodes/custom-shortcodes.php:1013
+#: inc/custom-shortcodes/custom-shortcodes.php:1056
+#: inc/custom-shortcodes/custom-shortcodes.php:1180
+#: inc/custom-shortcodes/custom-shortcodes.php:1253
+#: inc/custom-shortcodes/custom-shortcodes.php:1323
+#: inc/custom-shortcodes/custom-shortcodes.php:1395
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/custom-shortcodes/custom-shortcodes.php:980
+#: inc/custom-shortcodes/custom-shortcodes.php:1117
+#: inc/custom-shortcodes/custom-shortcodes.php:1381
+msgid "PIN"
+msgstr ""
+
+#: inc/custom-shortcodes/custom-shortcodes.php:1077
+#: inc/custom-shortcodes/custom-shortcodes.php:1201
+#: inc/custom-shortcodes/custom-shortcodes.php:1274
+#: inc/custom-shortcodes/custom-shortcodes.php:1344
+#: inc/custom-shortcodes/custom-shortcodes.php:1416
+msgid "by"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:15
+msgid "Content Shortcodes"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:21
+msgid "Blog Listing Style"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:28
+msgid "Default"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:29
+msgid "List View"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:30
+msgid "Masonary View"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:32
+#: inc/custom-shortcodes/theme-shortcodes.php:785
+msgid "Blog List Style"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:37
+msgid "Blog Limit"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:38
+msgid "Enter Blog Limit to show."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:43
+msgid "Listing"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:49
+msgid "ASC"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:50
+msgid "DESC"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:52
+msgid "Blog Order"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:58
+#: inc/widgets/recent-posts.php:118
+msgid "None"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:59
+#: inc/widgets/recent-posts.php:119
+msgid "ID"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:60
+#: inc/custom-shortcodes/theme-shortcodes.php:104
+#: inc/widgets/recent-posts.php:120
+msgid "Author"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:61
+#: inc/widgets/recent-posts.php:121
+msgid "Title"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:62
+#: inc/custom-shortcodes/theme-shortcodes.php:92
+#: inc/widgets/recent-posts.php:124
+msgid "Date"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:63
+#: inc/widgets/recent-posts.php:125
+msgid "Modified"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:64
+#: inc/widgets/recent-posts.php:126
+msgid "Random"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:66
+msgid "Blog Order By"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:71
+msgid "Show only certain categories?"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:76
+msgid "Show only certain posts?"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:81
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:86
+msgid "Pagination"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:98
+msgid "Category"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:110
+#: inc/custom-shortcodes/theme-shortcodes.php:397
+msgid "Social Icons"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:116
+#: inc/custom-shortcodes/theme-shortcodes.php:160
+#: inc/custom-shortcodes/theme-shortcodes.php:250
+#: inc/custom-shortcodes/theme-shortcodes.php:312
+#: inc/custom-shortcodes/theme-shortcodes.php:365
+#: inc/custom-shortcodes/theme-shortcodes.php:417
+#: inc/custom-shortcodes/theme-shortcodes.php:532
+#: inc/custom-shortcodes/theme-shortcodes.php:551
+#: inc/custom-shortcodes/theme-shortcodes.php:585
+#: inc/custom-shortcodes/theme-shortcodes.php:602
+#: inc/custom-shortcodes/theme-shortcodes.php:713
+#: inc/custom-shortcodes/theme-shortcodes.php:765
+#: inc/custom-shortcodes/theme-shortcodes.php:790
+#: inc/custom-shortcodes/theme-shortcodes.php:805
+msgid "Custom Class"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:124
+#: inc/custom-shortcodes/theme-shortcodes.php:130
+msgid "Page Title"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:135
+msgid "Page Title Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:140
+msgid "Page Title Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:145
+msgid "Page Sub Title"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:150
+msgid "Page Sub-Title Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:155
+msgid "Page Sub-Title Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:168
+msgid "Spacer"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:174
+msgid "Height"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:187
+msgid "About"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:188
+msgid "About Content Shortcodes"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:194
+msgid "About Title"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:195
+msgid "Enter your About title."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:200
+msgid "About title Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:205
+msgid "About title Hover Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:210
+msgid "About title Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:215
+msgid "About Title Link"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:216
+msgid "Enter your About title Link."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:221
+#: inc/custom-shortcodes/theme-shortcodes.php:305
+#: inc/custom-shortcodes/theme-shortcodes.php:387
+#: inc/custom-shortcodes/theme-shortcodes.php:488
+#: inc/custom-shortcodes/theme-shortcodes.php:647
+#: inc/custom-shortcodes/theme-shortcodes.php:706
+msgid "Open New Tab?"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:222
+#: inc/custom-shortcodes/theme-shortcodes.php:306
+#: inc/custom-shortcodes/theme-shortcodes.php:388
+#: inc/custom-shortcodes/theme-shortcodes.php:489
+#: inc/custom-shortcodes/theme-shortcodes.php:648
+#: inc/custom-shortcodes/theme-shortcodes.php:707 inc/widgets/nav-widget.php:63
+#: inc/widgets/recent-posts.php:79
+msgid "Yes"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:223
+#: inc/custom-shortcodes/theme-shortcodes.php:307
+#: inc/custom-shortcodes/theme-shortcodes.php:389
+#: inc/custom-shortcodes/theme-shortcodes.php:490
+#: inc/custom-shortcodes/theme-shortcodes.php:649
+#: inc/custom-shortcodes/theme-shortcodes.php:708 inc/widgets/nav-widget.php:64
+#: inc/widgets/recent-posts.php:80
+msgid "No"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:228
+msgid "About Image"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:229
+msgid "Upload your About image."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:234
+msgid "Profession "
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:235
+msgid "Enter your Profession."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:240
+msgid "Profession Text Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:245
+msgid "Profession Text Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:255
+msgid "About Content"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:256
+msgid "Enter your About content."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:266
+msgid "About Page Signature"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:272
+msgid "About Signature"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:273
+msgid "Upload Your Signature."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:278
+msgid "Signature Name"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:279
+msgid "Enter your Signature Name."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:284
+msgid "Signature Name Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:289
+msgid "Signature Name Hover Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:294
+msgid "Signature Name Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:299
+msgid "Signature Link"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:300
+msgid "Enter your Signature Link."
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:320
+msgid "About Social Icons"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:323
+#: inc/custom-shortcodes/theme-shortcodes.php:400
+#: inc/custom-shortcodes/theme-shortcodes.php:596
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:329
+#: inc/custom-shortcodes/theme-shortcodes.php:429
+msgid "Icon Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:335
+#: inc/custom-shortcodes/theme-shortcodes.php:435
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:341
+#: inc/custom-shortcodes/theme-shortcodes.php:442
+msgid "Backrgound Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:347
+#: inc/custom-shortcodes/theme-shortcodes.php:449
+msgid "Backrgound Hover Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:353
+#: inc/custom-shortcodes/theme-shortcodes.php:456
+msgid "Border Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:360
+#: inc/custom-shortcodes/theme-shortcodes.php:465
+msgid "Icon Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:377
+#: inc/custom-shortcodes/theme-shortcodes.php:478
+msgid "Link"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:382
+#: inc/custom-shortcodes/theme-shortcodes.php:483
+msgid "Social Icon"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:407
+msgid "Style One (Left-side Section)"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:408
+msgid "Style Two(About Section)"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:409
+msgid "Style Three(Footer)"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:410
+msgid "Style Four(Right side Widget)"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:412
+msgid "Social Icons Style"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:424
+msgid "Colors"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:501
+msgid "Dropcaps"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:507
+msgid "Dropcaps Letter"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:512
+msgid "Dropcaps Letter Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:517
+msgid "Dropcaps Letter Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:522
+msgid "Dropcaps Letter Border Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:527
+msgid "Dropcaps Letter Background Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:540
+msgid "Quote"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:546
+msgid "Quote content"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:559
+msgid "Double Image"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:565
+msgid "Upload First Image"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:570
+msgid "First Image Caption"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:575
+msgid "Upload Second Image"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:580
+msgid "Second Image Caption"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:593
+msgid "Contact Icon Section"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:608
+msgid "Column One"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:609
+msgid "Column Two"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:610
+msgid "Column Three"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:611
+msgid "Column Four"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:613
+msgid "Contact Icons Column"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:619
+msgid "Center"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:620
+msgid "Right"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:621
+msgid "Left"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:623
+msgid "Contact Icons Section Alignment"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:632
+msgid "Contact Icon"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:637
+msgid "Contact Icon Caption"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:642
+msgid "Contact Icon Caption Link"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:659
+msgid "Heading"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:666
+#: inc/custom-shortcodes/theme-shortcodes.php:728
+msgid "Heading Text"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:671
+msgid "Heading Text Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:676
+msgid "Heading Text Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:681
+msgid "Heading Caption"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:686
+msgid "Heading Caption Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:691
+msgid "Heading Caption Hover Color"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:696
+msgid "Heading Caption Size"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:701
+msgid "Heading Caption Link"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:721
+msgid "Shop Post"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:733
+msgid "Shop Post Limit"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:738
+msgid "Shop Post Order"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:743
+msgid "Shop Post Orderby"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:748
+msgid "Shop Post Category"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:754
+msgid "OR(Include Category or Id)"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:759
+msgid "Shop Post ID"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:773
+msgid "Popular Post"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:779
+msgid "Popular Post Heading"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:799
+msgid "Signy WPML"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:811
+msgid "Dropdown"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:812
+msgid "Horizontal"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:813
+msgid "Vertical"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:815
+msgid "WPML Style"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:821
+msgid "Native Name"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:822
+msgid "Translated Name"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:823
+msgid "Language Code"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:825
+msgid "Language Type"
+msgstr ""
+
+#: inc/custom-shortcodes/theme-shortcodes.php:830
+msgid "Remove Flag"
+msgstr ""
+
+#: inc/import/importer/parsers.php:42 inc/import/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/import/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/import/importer/parsers.php:67 inc/import/importer/parsers.php:72
+#: inc/import/importer/parsers.php:262 inc/import/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:209
+msgid "Import Again"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:213
+#: inc/import/importer/radium-importer.php:227
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:239
+msgid " - One Click Install"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:240
+msgid "Install recommended plugins first!"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:247
+msgid "Import Type"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:248
+msgid "If you would like to import all or specific content, select here."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:251
+msgid "All"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:252
+msgid "Content"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:253
+msgid "Widget"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:254
+msgid "Theme Option"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:266
+msgid "Done!"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:272
+msgid "Demo already imported!"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:293
+msgid "Important notes:"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:298
+msgid "Please note, this import process will take time. So, please be patient."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:299
+msgid ""
+"Please make sure you've installed recommended plugins before you import this "
+"content."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:300
+msgid ""
+"All images are demo purposes only. Images are not included in this import "
+"content."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:309
+msgid "Don't Edit Parent Theme Files:"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:312
+msgid ""
+"Don't edit any files from parent theme! Use only a <strong>Child Theme</"
+"strong> files for your customizations!"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:313
+msgid ""
+"If you get future updates from our theme, you'll lose edited customization "
+"from your parent theme."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:320
+msgid "Need Support?"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:324
+msgid ""
+"Have any doubts regarding this installation or any other issues? Please feel "
+"free to open a ticket in our support center."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:325
+msgid "Docs"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:326
+msgid "Support"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:327
+msgid "Item Page"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:536
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:593
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:665
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:687
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:710
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:759
+msgid "Imported"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:762
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/import/importer/radium-importer.php:769
+msgid "No Title"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:134
+#: inc/import/importer/wordpress-importer.php:143
+#: inc/import/importer/wordpress-importer.php:194
+#: inc/import/importer/wordpress-importer.php:198
+#: inc/import/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:505
+#: inc/import/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: inc/import/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:11
+msgid ": Instagram"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:14
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:88
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:88
+msgid "Follow Me!"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:96
+msgid "Username"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:97
+msgid "Number of photos"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:98
+msgid "Photo size"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:100
+msgid "Small"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:103
+msgid "Open links in"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:105
+msgid "Current window (_self)"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:106
+msgid "New window (_blank)"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:109
+msgid "Link text"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:134
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:137
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:144 inc/widgets/instagram-widget.php:149
+#: inc/widgets/instagram-widget.php:153
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:183
+msgid "Instagram Image"
+msgstr ""
+
+#: inc/widgets/instagram-widget.php:211
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: inc/widgets/logo-widget.php:16
+msgid ": Logo Widget"
+msgstr ""
+
+#: inc/widgets/logo-widget.php:19
+msgid " widget that display Logo & Logo Caption."
+msgstr ""
+
+#: inc/widgets/logo-widget.php:41
+msgid "Image url :"
+msgstr ""
+
+#: inc/widgets/logo-widget.php:52
+msgid "Image Caption :"
+msgstr ""
+
+#: inc/widgets/logo-widget.php:62
+msgid "Image Link :"
+msgstr ""
+
+#: inc/widgets/nav-widget.php:16
+msgid ": Navigation"
+msgstr ""
+
+#: inc/widgets/nav-widget.php:19
+msgid " widget that displays navigations list."
+msgstr ""
+
+#: inc/widgets/nav-widget.php:41 inc/widgets/popular-posts-widget.php:42
+#: inc/widgets/recent-posts.php:45 inc/widgets/text-widget.php:40
+msgid "Title :"
+msgstr ""
+
+#: inc/widgets/nav-widget.php:53
+msgid "Select Menu List :"
+msgstr ""
+
+#: inc/widgets/nav-widget.php:65
+msgid "Display Menu Children :"
+msgstr ""
+
+#: inc/widgets/nav-widget.php:66
+msgid "This only shows first level of child menus."
+msgstr ""
+
+#: inc/widgets/newsletter-widget.php:16
+msgid ": Newsletter Widget"
+msgstr ""
+
+#: inc/widgets/newsletter-widget.php:19
+msgid " widget that display Newsletter Form."
+msgstr ""
+
+#: inc/widgets/newsletter-widget.php:41
+msgid "Newsletter Title :"
+msgstr ""
+
+#: inc/widgets/newsletter-widget.php:52
+msgid "Newsletter Description:"
+msgstr ""
+
+#: inc/widgets/newsletter-widget.php:63
+msgid "Newletter shortcode :"
+msgstr ""
+
+#: inc/widgets/popular-posts-widget.php:16
+msgid ": Popular Posts Widget"
+msgstr ""
+
+#: inc/widgets/popular-posts-widget.php:19
+msgid " widget that displays Popular Posts."
+msgstr ""
+
+#: inc/widgets/popular-posts-widget.php:30
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widgets/popular-posts-widget.php:53
+msgid "Categories:"
+msgstr ""
+
+#: inc/widgets/popular-posts-widget.php:71
+msgid "Select Category display view :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:16
+msgid ": Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:19
+msgid " widget that displays recent posts."
+msgstr ""
+
+#: inc/widgets/recent-posts.php:30
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:57
+msgid "Select Post Type"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:58
+msgid "Post Type :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:68
+msgid "Limit :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:69
+msgid "How many posts want to show?"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:81
+msgid "Display Date :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:91
+msgid "Category :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:92
+msgid "Enter category slugs with comma(,) for multiple items"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:106
+msgid "Select Order"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:107
+msgid "Order :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:122
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:123
+msgid "Type"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:128
+msgid "Select OrderBy"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:129
+msgid "OrderBy :"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:200
+msgid "th "
+msgstr ""
+
+#: inc/widgets/text-widget.php:16
+msgid ": Text Widget"
+msgstr ""
+
+#: inc/widgets/text-widget.php:19
+msgid " widget that displays contents."
+msgstr ""
+
+#: inc/widgets/text-widget.php:56
+msgid "Content :"
+msgstr ""
+
+#: inc/widgets/widget-extra-fields.php:15
+msgid "Custom Class:"
+msgstr ""
+
+#: inc/widgets/widget-extra-fields.php:17
+msgid "Add your custom classes."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Signy Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://themeforest.net/user/VictorThemes"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin to contain shortcodes and custom post types of the signy theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VictorThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/VictorThemes/portfolio"
+msgstr ""
