@@ -1,0 +1,147 @@
+2023-01-22T15:07:36+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:07:48+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:07:59+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:08:03+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:08:16+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:08:17+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:08:26+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:08:32+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:08:40+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:08:57+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:09:04+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:09:24+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:09:30+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:12:03+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:12:09+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:12:40+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:22:08+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:22:18+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T15:22:27+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T16:22:52+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
+2023-01-22T16:23:08+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php:46
+Stack trace:
+#0 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(46): ReflectionClass->getMethod('get_site_editor...')
+#1 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php(127): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/modules/finder/categories/create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor/core/common/module in /home/u659983870/domains/stemmeet.com/public_html/wistonforero/wp-content/plugins/elementor-pro/modules/theme-builder/documents/theme-document.php on line 46
+
